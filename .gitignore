@@ -1,0 +1,27 @@
+# dependencies
+node_modules
+
+# log
+logs
+
+# testing
+/coverage
+
+# bundle
+/public/assets/bundle.js
+
+# production
+/build
+
+# misc
+.DS_Store
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# idea
+.idea/
+
+# upload
+public/upload
